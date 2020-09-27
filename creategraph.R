@@ -1,9 +1,17 @@
 ## Create Graph
+#
+# Author: Annika Oldach
+# Contact: aoldach@uni-osnabrueck.de
+#
+# Date created: 25.9.2020
+# RStudio: Version 1.3.1073
+#
 # This program plots a graph using the data from 
 # data.csv. The x-axis is labelled as 'Articles', which
 # lists all the articles published by Open Mind. The
 # y-axis is labelled as 'Preregistration', and contains
 # a boolean value 'yes' or 'no'.
+
 
 # Save the plot in a variable
 graph <- plot(data, 

@@ -1,6 +1,16 @@
+## CSV containing untouched data
+#
+# Author: Annika Oldach
+# Contact: aoldach@uni-osnabrueck.de
+#
+# Date created 23.9.2020
+# RStudio: Version 1.3.1073
+# Excel: Microsoft Excel for Microsoft 365 MSO (16.0.13127.20266) 32-bit
+# Open Mind Journal date accessed: 23.9.2020
+
 number,authors,title,yraccepted,prereg
 1,marti_et_al,Certainty Is Primarily Determined by Past Performance During Concept Learning,2018,no
-2,magid_et_al,Four- and 5-Year-Olds Infer Differences in Relative Ability and Appropriately Allocate Roles to Achieve Cooperative Competitive and Prosocial Goals,2018,yes
+2,magid_et_al,Four- and 5-Year-Olds Infer Differences in Relative Ability and Appropriately Allocate Roles to Achieve Cooperative Competitive and Prosocial Goals,2018,yes
 3,braginsky_et_al,Consistency and Variability in Children’s Word Learning Across Languages,2019,no
 4,schulz_et_al,Communicating Compositional Patterns,2020,no
 5,gibson_et_al,The Use of a Computer Display Exaggerates the Connection Between Education and Approximate Number Ability in Remote Populations,2017,no
