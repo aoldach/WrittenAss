@@ -14,13 +14,14 @@
 
 
 # Save the plot in a variable
-graph <- plot(data, 
-         main = "Preregistration of Articles", 
-         xlab = "Articles",
-         ylab = "Preregistration",
-         yaxt = "n",
-         xaxt = "n"
-         )
+graph <- plot(numbers, 
+              preregistered, 
+              main = "Preregistration of Articles",
+              yaxt = "n",
+              xaxt = "n",
+              xlab = "Articles",
+              ylab = "Preregistration"
+              )
 
 # Add ticks to the y-axis
 yaxis <- c("No", "Yes")
