@@ -1,4 +1,4 @@
-# WrittenAss
+# Grade for Open Science Course
 ## Study: 
 the aim of this study was to investigate how many articles published in the relatively young cognitive science journal "Open Mind" were preregistered. We hypothesised that, as awareness about open science is growing, over 75% of articles published in "Open Mind" would have been preregistered. All 31 articles published to date [23.9.2020] were downloaded as pdf files and word-searched for the keywords "pre-reg", "prereg", and "register". Positive word-search results numbered only 2, thus, only 6.5% of articles published by "Open Mind" were preregistered. This does not support the hypothesis.
 
